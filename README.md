@@ -1,5 +1,8 @@
 # AscensorBot
 
+Modelo de ascensor para controlar con 2  @microbit_edu . Las pilas hacen de contrapeso. Unos imanes insertados en el rail son detectados por un sensor de efecto Hall y permiten saber donde detenerse en cada piso. 
+
+También pueden usarse finales de carrera o sensores IR para detectar los puntos de parada
 
 ![ascensorbot](https://pbs.twimg.com/media/D9IftogXoAALSgv?format=jpg&name=small)
 
